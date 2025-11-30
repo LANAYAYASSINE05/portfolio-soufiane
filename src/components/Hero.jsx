@@ -219,7 +219,7 @@ const Hero = () => {
               <motion.button
                 onClick={() => {
                   const link = document.createElement('a')
-                  link.href = '/path/to/cv.pdf' // Replace with actual CV path
+                  link.href = '/uploads/RHANIM MEHDI CV.pdf'
                   link.download = 'RHANIM_MEHDI_CV.pdf'
                   document.body.appendChild(link)
                   link.click()

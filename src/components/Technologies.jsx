@@ -8,7 +8,7 @@ const Technologies = () => {
       case 'meta':
         return (
           <img 
-            src="/src/assets/meta.png" 
+            src="/assets/meta.png" 
             alt="Meta" 
             width={iconProps.width} 
             height={iconProps.height}
@@ -27,7 +27,7 @@ const Technologies = () => {
       case 'tiktok':
         return (
           <img 
-            src="/src/assets/tiktok.png" 
+            src="/assets/tiktok.png" 
             alt="TikTok" 
             className="w-7 h-7 object-contain"
           />
@@ -41,7 +41,7 @@ const Technologies = () => {
       case 'canva':
         return (
           <img 
-            src="/src/assets/canva.png" 
+            src="/assets/canva.png" 
             alt="Canva" 
             className="w-7 h-7 object-contain"
           />
@@ -49,7 +49,7 @@ const Technologies = () => {
       case 'capcut':
         return (
           <img 
-            src="/src/assets/capcut.png" 
+            src="/assets/capcut.png" 
             alt="CapCut" 
             className="w-7 h-7 object-contain"
           />
@@ -57,7 +57,7 @@ const Technologies = () => {
       case 'photoshop':
         return (
           <img 
-            src="/src/assets/photoshop.png" 
+            src="/assets/photoshop.png" 
             alt="Photoshop" 
             className="w-7 h-7 object-contain"
           />
@@ -71,7 +71,7 @@ const Technologies = () => {
       case 'elementor':
         return (
           <img 
-            src="/src/assets/elemenator.png" 
+            src="/assets/elemenator.png" 
             alt="Elementor" 
             className="w-7 h-7 object-contain"
           />
@@ -79,7 +79,7 @@ const Technologies = () => {
       case 'office':
         return (
           <img 
-            src="/src/assets/office.png" 
+            src="/assets/office.png" 
             alt="Microsoft Office" 
             className="w-7 h-7 object-contain"
           />
@@ -87,7 +87,7 @@ const Technologies = () => {
       case 'chatgpt':
         return (
           <img 
-            src="/src/assets/chatgpt.png" 
+            src="/assets/chatgpt.png" 
             alt="ChatGPT" 
             className="w-7 h-7 object-contain"
           />
@@ -95,7 +95,7 @@ const Technologies = () => {
       case 'gemini':
         return (
           <img 
-            src="/src/assets/gemini.png" 
+            src="/assets/gemini.png" 
             alt="Gemini" 
             className="w-7 h-7 object-contain"
           />
@@ -103,7 +103,7 @@ const Technologies = () => {
       case 'midjourney':
         return (
           <img 
-            src="/src/assets/midjourney.png" 
+            src="/assets/midjourney.png" 
             alt="Midjourney" 
             className="w-7 h-7 object-contain"
           />
